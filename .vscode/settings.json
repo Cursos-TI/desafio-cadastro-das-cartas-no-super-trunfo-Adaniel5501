@@ -3,6 +3,7 @@
         "main"
     ],
     "files.associations": {
-        "DesafioSupertrunfoTema2Novato.C": "cpp"
+        "DesafioSupertrunfoTema2Novato.C": "cpp",
+        "DesafioSupertrufoTema2Aventureiro.C": "cpp"
     }
 }
